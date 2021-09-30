@@ -1,0 +1,15 @@
+{
+  "name": "exercise_url_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "url_parser.js",
+  "dependencies": {
+    "jest": "^27.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
